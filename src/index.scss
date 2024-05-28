@@ -1,0 +1,13 @@
+// Imported styles
+@import '~bootswatch/dist/slate/variables';
+@import '~bootstrap/scss/bootstrap';
+@import '~bootswatch/dist/slate/bootswatch';
+
+/* stylelint-disable selector-max-specificity */
+html,
+body,
+main,
+#___gatsby,
+#gatsby-focus-wrapper {
+  height: 100%;
+}
