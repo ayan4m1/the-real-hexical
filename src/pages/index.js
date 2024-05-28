@@ -57,10 +57,9 @@ export default function IndexPage() {
                 </p>
                 <p>
                   This all changed when he stole $200 from two friends of mine
-                  outright by taking keyboard commissions and then ghosting
-                  them, and then ghosted me as well. He was banned from the DIY
-                  eJuice Discord server and removed from an admin position at
-                  the{' '}
+                  outright by taking keyboard commissions, then ghosting them
+                  and me as well. He was banned from the DIY eJuice Discord
+                  server and removed from an admin position at the{' '}
                   <a
                     href="https://escaperestart.com/"
                     target="_blank"
