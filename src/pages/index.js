@@ -8,6 +8,9 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import noHex from '../images/gatsby-icon.png';
 import pirateshipProof from '../images/proof-pirateship.png';
 import paypalProof from '../images/proof-paypal.png';
+import firstDiscordProof from '../images/proof-discord.png';
+import secondDiscordProof from '../images/proof-discord-2.png';
+import thirdDiscordProof from '../images/proof-discord-3.png';
 import Layout from '../components/layout.js';
 
 export default function IndexPage() {
@@ -69,7 +72,7 @@ export default function IndexPage() {
                 rel="noopener noreferrer"
               >
                 EscapeRestart gaming community
-              </a>
+              </a>{' '}
               as a result of his fraud. He owes me $1,202 at present. I am not
               putting this information up to create drama; I don&apos;t use
               social media, and this is the only way I have to spread the
@@ -108,9 +111,9 @@ export default function IndexPage() {
               />{' '}
               Evidence
             </h2>
-            <Container fluid className="d-flex justify-content-center">
+            <Container fluid>
               <Row className="p-4">
-                <Col xs={12}>
+                <Col xs={{ span: 8, offset: 4 }}>
                   <Figure>
                     <Figure.Image width={480} src={paypalProof} />
                     <Figure.Caption>
@@ -120,12 +123,37 @@ export default function IndexPage() {
                 </Col>
               </Row>
               <Row className="p-4">
-                <Col xs={12}>
+                <Col xs={4}>
+                  <Figure>
+                    <Figure.Image width={480} src={firstDiscordProof} />
+                    <Figure.Caption>
+                      Proof Hex and I were friends
+                    </Figure.Caption>
+                  </Figure>
+                </Col>
+                <Col xs={4}>
+                  <Figure>
+                    <Figure.Image width={480} src={secondDiscordProof} />
+                    <Figure.Caption>
+                      Proof I gave my Steam Deck to Hex
+                    </Figure.Caption>
+                  </Figure>
+                </Col>
+                <Col xs={4}>
+                  <Figure>
+                    <Figure.Image width={480} src={thirdDiscordProof} />
+                    <Figure.Caption>
+                      Proof I bailed him out with hundreds of dollars
+                    </Figure.Caption>
+                  </Figure>
+                </Col>
+              </Row>
+              <Row className="p-4">
+                <Col xs={{ span: 8, offset: 4 }}>
                   <Figure>
                     <Figure.Image width={480} src={pirateshipProof} />
                     <Figure.Caption>
-                      PirateShip Transaction List Showing Packages Sent To
-                      ItsHexical
+                      PirateShip Transaction List Showing Packages Sent To Hex
                     </Figure.Caption>
                   </Figure>
                 </Col>
