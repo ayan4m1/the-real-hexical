@@ -59,15 +59,7 @@ export default function IndexPage() {
                   This all changed when he stole $200 from two friends of mine
                   outright by taking keyboard commissions, then ghosting them
                   and me as well. He was banned from the DIY eJuice Discord
-                  server and removed from an admin position at the{' '}
-                  <a
-                    href="https://escaperestart.com/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    EscapeRestart gaming community
-                  </a>{' '}
-                  as a result of his fraud.
+                  server as a result of his fraud.
                 </p>
                 <p>
                   He owes me $1,202 at present. I am not putting this
