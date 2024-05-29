@@ -23,6 +23,12 @@ module.exports = {
         icon: 'src/images/gatsby-icon.png'
       }
     },
+    {
+      resolve: 'gatsby-plugin-google-gtag',
+      options: {
+        trackingIds: ['G-LBCRVQMM3X']
+      }
+    },
     'gatsby-plugin-eslint',
     'gatsby-plugin-image',
     'gatsby-plugin-sass',
