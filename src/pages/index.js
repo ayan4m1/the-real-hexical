@@ -37,8 +37,8 @@ export default function IndexPage() {
               <Col>
                 <h3>What Happened</h3>
                 <p>
-                  I am a 30-something software developer. I became friends with
-                  ItsHexical / Hex over a period of years through the{' '}
+                  I am a 30-something software developer. I became close friends
+                  with ItsHexical / Hex over a period of years through the{' '}
                   <a
                     href="https://discord.gg/ejuice"
                     target="_blank"
@@ -46,26 +46,14 @@ export default function IndexPage() {
                   >
                     DIY eJuice Discord
                   </a>{' '}
-                  server. We exchanged recipes, I sent him various gifts of my
-                  own free will, expecting nothing in return. However, I also
-                  loaned him money with no interest to help take care of his
-                  child / bills and gave him my pre-ordered Steam Deck when he
-                  couldn&apos;t get one. I did expect to be repaid for those
-                  things, and was clear about that with him. I considered him a
-                  good friend who was trustworthy, just down on his luck
-                  financially.
+                  server.
                 </p>
                 <p>
-                  This all changed when he stole $200 from two friends of mine
-                  outright by taking keyboard commissions, then ghosting them
-                  and me as well. He was banned from the DIY eJuice Discord
-                  server as a result of his fraud.
-                </p>
-                <p>
-                  He owes me $1,202 at present. I am not putting this
-                  information up to create drama or to get my money back. I
-                  don&apos;t use social media, so this is the only way I have to
-                  spread the message so that others are not defrauded by him.
+                  This all changed when he stole $200 from two other friends
+                  (about $100 each time) of mine outright by taking keyboard
+                  commissions, then ghosting them, and finally me as well. He
+                  was banned from the DIY eJuice Discord server as a result of
+                  his fraud.
                 </p>
                 <h3>Moving Forward</h3>
                 <p>
@@ -90,10 +78,6 @@ export default function IndexPage() {
                   </a>{' '}
                   should not be trusted, funded, or supported if people want
                   their money spent or used for what he says he uses it for.
-                </p>
-                <p>
-                  I have reason to believe he has spent money I sent him for his
-                  child&apos;s diapers on drugs.
                 </p>
               </Col>
             </Row>
