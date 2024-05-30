@@ -53,7 +53,11 @@ export default function IndexPage() {
                   (about $100 each time) of mine outright by taking keyboard
                   commissions, then ghosting them, and finally me as well. He
                   was banned from the DIY eJuice Discord server as a result of
-                  his fraud.
+                  his fraud. He claims that he was unable to ship one of the
+                  keyboards because of a lack of funds to ship with - this is
+                  bogus, the person involved offered to pay him a second time,
+                  specifically to cover the shipping, on top of an already
+                  agreed-upon price which included shipping.
                 </p>
                 <h3>Moving Forward</h3>
                 <p>
