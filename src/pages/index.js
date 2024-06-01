@@ -49,10 +49,10 @@ export default function IndexPage() {
                   server.
                 </p>
                 <p>
-                  This all changed when he stole $200 from two other friends
-                  (about $100 each time) outright by taking keyboard commissions
-                  from them, then ghosting them, and finally me as well. He was
-                  banned from the DIY eJuice Discord server as a result of this
+                  This all changed when he stole a couple hundred dollars
+                  outright by taking a keyboard commission from our mutual
+                  friend, ghosted them, and finally me as well. He was banned
+                  from the DIY eJuice Discord server as a result of this
                   conduct.
                 </p>
                 <p>
