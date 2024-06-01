@@ -50,14 +50,34 @@ export default function IndexPage() {
                 </p>
                 <p>
                   This all changed when he stole $200 from two other friends
-                  (about $100 each time) of mine outright by taking keyboard
-                  commissions, then ghosting them, and finally me as well. He
-                  was banned from the DIY eJuice Discord server as a result of
-                  his fraud. He claims that he was unable to ship one of the
-                  keyboards because of a lack of funds to ship with - this is
-                  bogus, the person involved offered to pay him a second time,
-                  specifically to cover the shipping, on top of an already
-                  agreed-upon price which included shipping.
+                  (about $100 each time) outright by taking keyboard commissions
+                  from them, then ghosting them, and finally me as well. He was
+                  banned from the DIY eJuice Discord server as a result of this
+                  conduct.
+                </p>
+                <p>
+                  He claims that he was unable to ship one of the keyboards
+                  because of a lack of funds - even setting aside the question
+                  of what he spent the intitial shipping money on, this is
+                  bogus, because the person involved offered to pay him a second
+                  time <em>specifically</em> to cover the extra shipping. He
+                  ghosted them anyway.
+                </p>
+                <p>
+                  Hex stopped responding to my messages and emails, then banned
+                  me from all mutual Discord servers he had that power on. Hex
+                  owed me about $1,200 in unpaid loans at the time. I reported
+                  these concerns to the admins of the{' '}
+                  <a
+                    href="https://www.escaperestart.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    EscapeRestart
+                  </a>
+                  gaming community, who tried to sweep it under the table
+                  because Hex was in the process of stepping down as their lead
+                  community admin.
                 </p>
                 <h3>Moving Forward</h3>
                 <p>
