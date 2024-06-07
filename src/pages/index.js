@@ -51,17 +51,18 @@ export default function IndexPage() {
                 <p>
                   This all changed when he stole a couple hundred dollars
                   outright by taking a keyboard commission from our mutual
-                  friend, ghosted them, and finally me as well. He was banned
-                  from the DIY eJuice Discord server as a result of this
+                  friend, then ghosted him and me at the same time once it
+                  became clear he was not going to ship a keyboard. He was
+                  banned from the DIY eJuice Discord server as a result of this
                   conduct.
                 </p>
                 <p>
-                  He claims that he was unable to ship one of the keyboards
-                  because of a lack of funds - even setting aside the question
-                  of what he spent the intitial shipping money on, this is
-                  bogus, because the person involved offered to pay him a second
-                  time <em>specifically</em> to cover the extra shipping. He
-                  ghosted them anyway.
+                  He claims that he was unable to ship the keyboard because of a
+                  lack of funds - even setting aside the question of what he
+                  spent the intitial shipping money on, this is bogus, because
+                  the person involved offered to pay him a second time{' '}
+                  <em>specifically</em> to cover the extra shipping. He ghosted
+                  them anyway.
                 </p>
                 <p>
                   Hex stopped responding to my messages and emails, then banned
@@ -74,10 +75,11 @@ export default function IndexPage() {
                     rel="noopener noreferrer"
                   >
                     EscapeRestart
-                  </a>
+                  </a>{' '}
                   gaming community, who tried to sweep it under the table
                   because Hex was in the process of stepping down as their lead
-                  community admin.
+                  community admin. I had to call him out on their Discord server
+                  because he has ghosted me everywhere else.
                 </p>
                 <h3>Moving Forward</h3>
                 <p>
